@@ -1,6 +1,6 @@
 # Web API built using C#, ASP.NET MVC 
 
-The API allows you to POST content about your calls. 
+The API allows you to POST or PUT content about your calls. 
 
 The Base URL is
 
